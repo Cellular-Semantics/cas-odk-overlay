@@ -1,0 +1,9 @@
+taxonomy_id:
+  type: str
+  help: 'Enter the taxonomy ID (e.g., CCN20250428)'
+cas_taxonomy_url:
+  type: str
+  help: 'Enter the CAS taxonomy URL to download the JSON file'
+tasks:
+  - pip install -r requirements.txt
+  - python src/post_copy.py

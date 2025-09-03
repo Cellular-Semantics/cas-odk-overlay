@@ -1,7 +1,7 @@
 # CAS-ODK Overlay
 
 This repository provides a **Copier-based overlay** for [Ontology Development Kit (ODK)](https://oboacademy.github.io/obook/tutorial/setting-up-project-odk/) projects.  
-It extends the standard ODK scaffold with extra files, folders, and patterns that are automatically generated from **[Cell Annotation Schema (CAS)](https://github.com/obophenotype/cell-annotation-schema)** taxonomy JSON files.
+It extends the standard ODK scaffold with extra files, folders, and patterns that are automatically generated from **[Cell Annotation Schema (CAS)](https://github.com/cellannotation/cell-annotation-schema)** taxonomy JSON files.
 
 ## ✨ Features
 
